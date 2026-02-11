@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "calculator": "Calculator",
+    "splits": "Splits",
+    "language": "Language",
+    "units": "Units",
+    "theme": "Theme",
+    "metric": "Metric (km)",
+    "imperial": "Imperial (mi)",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "calculator": {
+    "title": "Race Pace Calculator",
+    "description": "Fill in any two fields to calculate the third.",
+    "distance": "Distance",
+    "pace": "Pace",
+    "time": "Time",
+    "calculate": "Calculate",
+    "reset": "Reset",
+    "result": "Result",
+    "custom": "Custom",
+    "paceUnit": "min/{unit}",
+    "perKm": "min/km",
+    "perMi": "min/mi",
+    "enterDistance": "Enter distance",
+    "enterPace": "Enter pace (MM:SS)",
+    "enterTime": "Enter time (HH:MM:SS)",
+    "missingFields": "Please fill in at least two fields.",
+    "invalidInput": "Invalid input. Please check your values."
+  },
+  "splits": {
+    "title": "Split Times",
+    "description": "See your projected split times for any race distance.",
+    "interval": "Split Interval",
+    "splitNumber": "#",
+    "splitDistance": "Distance",
+    "splitTime": "Split Time",
+    "cumulativeTime": "Cumulative Time",
+    "generate": "Generate Splits",
+    "noSplits": "Enter distance and pace to generate splits.",
+    "customInterval": "Custom interval"
+  },
+  "distances": {
+    "5k": "5K",
+    "10k": "10K",
+    "15k": "15K",
+    "half": "Half Marathon",
+    "marathon": "Marathon",
+    "ultra50k": "Ultra 50K",
+    "ultra100k": "Ultra 100K",
+    "custom": "Custom"
+  },
+  "common": {
+    "km": "km",
+    "mi": "mi",
+    "hours": "h",
+    "minutes": "min",
+    "seconds": "s"
+  }
+}

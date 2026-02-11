@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "calculator": "Calculateur",
+    "splits": "Intervalles",
+    "language": "Langue",
+    "units": "Unités",
+    "theme": "Thème",
+    "metric": "Métrique (km)",
+    "imperial": "Impérial (mi)",
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système"
+  },
+  "calculator": {
+    "title": "Calculateur d'Allure",
+    "description": "Remplissez deux champs pour calculer le troisième.",
+    "distance": "Distance",
+    "pace": "Allure",
+    "time": "Temps",
+    "calculate": "Calculer",
+    "reset": "Réinitialiser",
+    "result": "Résultat",
+    "custom": "Personnalisé",
+    "paceUnit": "min/{unit}",
+    "perKm": "min/km",
+    "perMi": "min/mi",
+    "enterDistance": "Entrez la distance",
+    "enterPace": "Entrez l'allure (MM:SS)",
+    "enterTime": "Entrez le temps (HH:MM:SS)",
+    "missingFields": "Veuillez remplir au moins deux champs.",
+    "invalidInput": "Entrée invalide. Veuillez vérifier vos valeurs."
+  },
+  "splits": {
+    "title": "Temps de Passage",
+    "description": "Consultez vos temps de passage projetés pour n'importe quelle distance.",
+    "interval": "Intervalle",
+    "splitNumber": "#",
+    "splitDistance": "Distance",
+    "splitTime": "Temps du Split",
+    "cumulativeTime": "Temps Cumulé",
+    "generate": "Générer les Splits",
+    "noSplits": "Entrez la distance et l'allure pour générer les splits.",
+    "customInterval": "Intervalle personnalisé"
+  },
+  "distances": {
+    "5k": "5K",
+    "10k": "10K",
+    "15k": "15K",
+    "half": "Semi-Marathon",
+    "marathon": "Marathon",
+    "ultra50k": "Ultra 50K",
+    "ultra100k": "Ultra 100K",
+    "custom": "Personnalisé"
+  },
+  "common": {
+    "km": "km",
+    "mi": "mi",
+    "hours": "h",
+    "minutes": "min",
+    "seconds": "s"
+  }
+}
